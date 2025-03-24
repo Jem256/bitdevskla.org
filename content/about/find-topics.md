@@ -6,7 +6,7 @@ description = "Where to Find Topics for Future Seminars"
 #### Where to Find Topics for Future Seminars
 
 Below is a list of suggested places to find interesting socratic seminar topics to discuss at
-BitDevsNBO meetups. If you have any others to add to the list let us know.
+BitDevsKLA meetups. If you have any others to add to the list let us know.
 
 ### Mailing Lists, News Letters, Q&As
 

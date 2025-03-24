@@ -6,12 +6,12 @@ title: "Socratic Seminar #2"
 
 ### Agenda
 
-11:10am Welcome to BitDevsNBO
+11:10am Welcome to BitDevsKLA
    > **Announcements**
    >
    > We are excited to introduce our second [Socratic Seminar](/about)! A special thank you to our sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
-   - [What is BitDevs](https://www.bitdevsnbo.org/about)
+   - [What is BitDevs](https://www.BitDevsKLA.org/about)
    - House Rules - the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 11:20am Address Encoding: Base58, Bech32, Bech32m

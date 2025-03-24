@@ -3,7 +3,7 @@ title = "About"
 description = "All about this site"
 +++
 
-BitDevsNBO is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
+BitDevsKLA is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
 help grow a community in Nairobi area of those interested in discussing 
 and participating in the research and development of Bitcoin and related 
 protocols and software. You can be well versed with or new to the topics, all are welcome. 
@@ -29,7 +29,7 @@ the basics of Bitcoin in order to extract the most value from our Socratic event
 
 Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion, or find the PR on the 
-[BitDevsNBO GitHub repo](https://github.com/BitDevsNBO/bitdevsnbo) and add a comment. 
+[BitDevsKLA GitHub repo](https://github.com/BitDevsKLA/BitDevsKLA) and add a comment. 
 There are different requirements for presentations depending on the nature of the project. Check our 
 list of suggestions for [where to find topics](/about/find-topics) for future seminars.
 
