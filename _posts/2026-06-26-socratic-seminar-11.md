@@ -1,25 +1,24 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #09"
+title: "Socratic Seminar #11"
 ---
 
 ## Event Details
 
-You're invited to BitDevs Kampala April Socratic Seminar! 🎉
+You're invited to BitDevs Kampala June Socratic Seminar! 🎉
 The event will be hosted at **Africa’s Talking Uganda**:
 
 John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTzYGdV7){:target="_blank"}
 
 **Time:** 5:00PM - 6:30PM
 
-[Register for the Meet Up](https://www.clooza.com/en/events/BITDEVSKLA-APR)
+[Register for the Meet Up](https://www.clooza.com/en/events/BITDEVSKLA-JUNE)
 
 ### Agenda
 
-- How Digital Signatures Work in Bitcoin - [Keith](https://github.com/keithunt-35)
+- Setting up a bitcoin node - [Keith](https://github.com/keithunt-35)
 
-- BlueWallet: Reproducible Builds - [Ojok](https://github.com/ojokne)
 
 A special thank you to our sponsor [Btrust](http://btrust.tech/) 
 
